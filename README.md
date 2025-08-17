@@ -1,4 +1,3 @@
-<img width="1918" height="1078" alt="Screenshot 2025-08-17 144028" src="https://github.com/user-attachments/assets/ed73b1a1-35b1-47aa-9c76-bb07b56c77c9" /># MDAP-EX_01-Portfolio
 ## Date:
 
 ## AIM
